@@ -138,6 +138,12 @@ Initial Description and Link:
 * https://github.com/acatlin/FALL2022TIDYVERSE/blob/main/tidyverse_readr.rmd
 =======
 
+# Jose Rodriguez
+Initial Description and Link: 
+* Demonstrates using the `purr` package to show how a function - including customs functions - can be applied to each element of a list or atomic vector without the use of a for loop.
+* https://github.com/acatlin/FALL2022TIDYVERSE/blob/main/TidyVerse_CREATE_assignment_Package_Vignette_Jose_Rodriguez.rmd
+=======
+
 
 
 
